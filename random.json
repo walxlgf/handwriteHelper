@@ -1,162 +1,82 @@
 [
     {
-        "lbl": "能",
+        "lbl": "百",
         "family": 3
     },
     {
-        "lbl": "首",
+        "lbl": "因",
         "family": 3
     },
     {
-        "lbl": "粱",
-        "family": 3
+        "lbl": "不",
+        "family": 5
     },
     {
-        "lbl": "渊",
-        "family": 3
-    },
-    {
-        "lbl": "同",
-        "family": 3
-    },
-    {
-        "lbl": "周",
-        "family": 3
-    },
-    {
-        "lbl": "念",
-        "family": 3
-    },
-    {
-        "lbl": "氐",
-        "family": 3
-    },
-    {
-        "lbl": "阑",
+        "lbl": "折",
         "family": 2
     },
     {
-        "lbl": "艰",
+        "lbl": "封",
         "family": 3
-    },
-    {
-        "lbl": "云",
-        "family": 4
-    },
-    {
-        "lbl": "北",
-        "family": 3
-    },
-    {
-        "lbl": "一",
-        "family": 4
-    },
-    {
-        "lbl": "壶",
-        "family": 3
-    },
-    {
-        "lbl": "簞",
-        "family": 3
-    },
-    {
-        "lbl": "盲",
-        "family": 3
-    },
-    {
-        "lbl": "好",
-        "family": 3
-    },
-    {
-        "lbl": "翠",
-        "family": 3
-    },
-    {
-        "lbl": "辈",
-        "family": 4
-    },
-    {
-        "lbl": "员",
-        "family": 3
-    },
-    {
-        "lbl": "戍",
-        "family": 3
-    },
-    {
-        "lbl": "河",
-        "family": 3
-    },
-    {
-        "lbl": "會",
-        "family": 3
-    },
-    {
-        "lbl": "又",
-        "family": 3
-    },
-    {
-        "lbl": "纷",
-        "family": 3
-    },
-    {
-        "lbl": "儔",
-        "family": 3
-    },
-    {
-        "lbl": "破",
-        "family": 1
-    },
-    {
-        "lbl": "和",
-        "family": 1
-    },
-    {
-        "lbl": "相",
-        "family": 3
-    },
-    {
-        "lbl": "件",
-        "family": 1
-    },
-    {
-        "lbl": "丹",
-        "family": 1
-    },
-    {
-        "lbl": "评",
-        "family": 1
-    },
-    {
-        "lbl": "几",
-        "family": 1
-    },
-    {
-        "lbl": "忘",
-        "family": 1
-    },
-    {
-        "lbl": "余",
-        "family": 1
-    },
-    {
-        "lbl": "则",
-        "family": 1
     },
     {
         "lbl": "紫",
-        "family": 1
+        "family": 3
     },
     {
-        "lbl": "置",
-        "family": 1
+        "lbl": "训",
+        "family": 3
     },
     {
-        "lbl": "东",
-        "family": 1
+        "lbl": "已",
+        "family": 3
     },
     {
-        "lbl": "路",
-        "family": 1
+        "lbl": "关",
+        "family": 3
+    },
+    {
+        "lbl": "骛",
+        "family": 3
+    },
+    {
+        "lbl": "讀",
+        "family": 3
+    },
+    {
+        "lbl": "浓",
+        "family": 3
+    },
+    {
+        "lbl": "清",
+        "family": 3
+    },
+    {
+        "lbl": "幹",
+        "family": 3
+    },
+    {
+        "lbl": "剪",
+        "family": 4
+    },
+    {
+        "lbl": "遥",
+        "family": 5
+    },
+    {
+        "lbl": "倦",
+        "family": 3
+    },
+    {
+        "lbl": "当",
+        "family": 5
+    },
+    {
+        "lbl": "鸥",
+        "family": 3
+    },
+    {
+        "lbl": "風",
+        "family": 4
     }
 ]

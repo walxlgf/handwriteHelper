@@ -72,7 +72,11 @@ while (items.length < program.count) {
 }
 
 fs.writeFileSync('random.json', JSON.stringify(items));
-console.log(JSON.stringify(items && items.map(item => item.lbl)));
+let str = ''
+items.forEach(item => {
+    str += item.lbl;
+});
+console.log(str);
 
 
 

@@ -1,82 +1,82 @@
 [
-    {
-        "lbl": "铜",
-        "family": 3
-    },
-    {
-        "lbl": "河",
-        "family": 4
-    },
-    {
-        "lbl": "存",
-        "family": 3
-    },
-    {
-        "lbl": "故",
-        "family": 3
-    },
-    {
-        "lbl": "慼",
-        "family": 2
-    },
-    {
-        "lbl": "於",
-        "family": 3
-    },
-    {
-        "lbl": "雄",
-        "family": 2
-    },
-    {
-        "lbl": "月",
-        "family": 4
-    },
-    {
-        "lbl": "乾",
-        "family": 3
-    },
-    {
-        "lbl": "闲",
-        "family": 4
-    },
-    {
-        "lbl": "后",
-        "family": 4
-    },
-    {
-        "lbl": "看",
-        "family": 4
-    },
-    {
-        "lbl": "东",
-        "family": 3
-    },
-    {
-        "lbl": "碑",
-        "family": 3
-    },
-    {
-        "lbl": "卫",
-        "family": 3
-    },
-    {
-        "lbl": "乎",
-        "family": 3
-    },
-    {
-        "lbl": "达",
-        "family": 3
-    },
-    {
-        "lbl": "干",
-        "family": 3
-    },
-    {
-        "lbl": "改",
-        "family": 3
-    },
-    {
-        "lbl": "日",
-        "family": 3
-    }
+	{
+		"lbl": "土",
+		"family": 3
+	},
+	{
+		"lbl": "只",
+		"family": 3
+	},
+	{
+		"lbl": "犹",
+		"family": 3
+	},
+	{
+		"lbl": "门",
+		"family": 3
+	},
+	{
+		"lbl": "政",
+		"family": 3
+	},
+	{
+		"lbl": "爽",
+		"family": 3
+	},
+	{
+		"lbl": "孤",
+		"family": 4
+	},
+	{
+		"lbl": "何",
+		"family": 5
+	},
+	{
+		"lbl": "甚",
+		"family": 3
+	},
+	{
+		"lbl": "恰",
+		"family": 3
+	},
+	{
+		"lbl": "流",
+		"family": 5
+	},
+	{
+		"lbl": "銜",
+		"family": 3
+	},
+	{
+		"lbl": "晏",
+		"family": 3
+	},
+	{
+		"lbl": "慕",
+		"family": 3
+	},
+	{
+		"lbl": "圆",
+		"family": 3
+	},
+	{
+		"lbl": "明",
+		"family": 3
+	},
+	{
+		"lbl": "计",
+		"family": 3
+	},
+	{
+		"lbl": "队",
+		"family": 3
+	},
+	{
+		"lbl": "议",
+		"family": 3
+	},
+	{
+		"lbl": "常",
+		"family": 4
+	}
 ]
